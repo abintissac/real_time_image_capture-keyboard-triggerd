@@ -1,0 +1,2 @@
+# real_time_image_capture-keyboard-triggerd
+This Python script utilizes OpenCV to capture images in real-time from a camera source (e.g., webcam) and performs image processing. The processed image is temporarily displayed and then saved to a specified folder. It provides a convenient way to capture and process images interactively, making it a valuable tool for various computer vision applications. The code is easily customizable and can be a useful addition to image processing projects.
